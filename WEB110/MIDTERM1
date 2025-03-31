@@ -1,1 +1,48 @@
+<!--
+    Name: [abdelrahman]
+    Date: [30/03/2025]
+    Subject: Portfolio Page
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - [abdelrahman] Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>My Portfolio</h1>
+            <p>Explore the projects I've worked on</p>
+        </header>
 
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="resume.html">Resume</a></li>
+            </ul>
+        </nav>
+
+        <main>
+            <section>
+                <h2>Project 1: Personal Website</h2>
+                <img src="images/image1.jpg" alt="Personal Website" width="100%">
+                <p>Description of the project, tools used, and what you learned from it.</p>
+            </section>
+
+            <section>
+                <h2>Project 2: E-Commerce Site</h2>
+                <img src="images/image1.jpg" alt="E-Commerce Site" width="100%">
+                <p>Description of the project, tools used, and what you learned from it.</p>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 [abdelrahman] | All Rights Reserved</p>
+        </footer>
+    </div>
+</body>
+</html>
