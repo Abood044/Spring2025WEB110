@@ -1,1 +1,61 @@
+<!--
+    Name: abdelrahman zeyad
+    Date: 30/03/2025
+    Subject: Home Page
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - [abdelrahman] Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>Welcome to My Portfolio</h1>
+            <p>Learn more about me, my work, and my skills</p>
+        </header>
 
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="resume.html">Resume</a></li>
+            </ul>
+        </nav>
+
+        <main>
+            <section>
+                <h2>About Me</h2>
+                <p>Hello! I'm [abdelrahman], a web developer passionate about creating functional and beautiful websites. I have experience in HTML, CSS, and JavaScript, and I am eager to expand my skills.</p>
+            </section>
+
+            <section>
+                <h2>Skills & Software</h2>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>Photoshop</li>
+                    <li>WordPress</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Contact Me</h2>
+                <ul>
+                    <li><a href="mailto:youremail@example.com">Email Me</a></li>
+                    <li><a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a></li>
+                    <li><a href="https://github.com/yourgithub">GitHub</a></li>
+                </ul>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 [abdelrahman] | All Rights Reserved</p>
+        </footer>
+    </div>
+</body>
+</html>
